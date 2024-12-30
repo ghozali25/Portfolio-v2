@@ -88,8 +88,8 @@ const skills = {
       title: "Data Analyst & Data Science",
       fileName: "DataScienceImg",
       skills: [
-        "Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "Experience of working with Computer Vision and NLP projects",
+        "Developing highly scalable production ready models for business",
+        "Experience of working with big data",
         "Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
@@ -229,9 +229,8 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "Experience working on multiple cloud platforms",
-        "Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "Deploying deep learning models on cloud to use on mobile devices",
-        "Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "Hosting and maintaining ERP with integration of databases",
+        "Setting up streaming jobs from DB to Server on GCP",
       ],
       softwareSkills: [
         {
@@ -256,13 +255,6 @@ const skills = {
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
           style: {
@@ -281,13 +273,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:docker",
           style: {
             color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
           },
         },
       ],
@@ -338,52 +323,38 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
+      siteName: "Google",
+      iconifyClassname: "logos:google-icon",
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink:
+        "https://www.cloudskillsboost.google/public_profiles/6b166983-0a5a-462e-8c40-6074c3459e47",
     },
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
+      siteName: "Qwiklabs",
+      iconifyClassname: "logos:google-cloud",
       style: {
-        color: "#2EC866",
+        color: "#F79F1B",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink:
+        "https://www.cloudskillsboost.google/public_profiles/6b166983-0a5a-462e-8c40-6074c3459e47",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
+      siteName: "Coursera",
+      iconifyClassname: "academicons:coursera",
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "",
     },
     {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
+      siteName: "IBM",
+      iconifyClassname: "cib:ibm",
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "",
     },
   ],
 };
@@ -391,30 +362,13 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
-      descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
-      website_link: "http://iiitk.ac.in",
-    },
-    {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
+      title: "Sekolah Tinggi Ilmu Ekonomi Kesatuan",
+      subtitle: "Management",
+      logo_path: "stiek.png",
+      alt_name: "STIE kesatuan",
+      duration: "2013 - 2017",
+      descriptions: ["IPK : 3.24 / 4.00", "", ""],
+      website_link: "https://www.ibik.ac.id/",
     },
   ],
 };
@@ -422,31 +376,22 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
+      title: "Looker Dashboards and Reports",
+      subtitle: "- Qwiklabs",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://www.cloudskillsboost.google/public_profiles/6b166983-0a5a-462e-8c40-6074c3459e47/badges/13422135",
       alt_name: "Google",
-      color_code: "#0C9D5899",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Data Analytics on Google Cloud",
+      subtitle: "- Qwiklabs",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://www.cloudskillsboost.google/public_profiles/6b166983-0a5a-462e-8c40-6074c3459e47/badges/13412670",
+      alt_name: "Google",
+      color_code: "#ffffff",
     },
     {
       title: "Data Science",
