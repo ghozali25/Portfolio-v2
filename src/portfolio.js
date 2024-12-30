@@ -22,10 +22,8 @@ const greeting = {
   title: "Ahmad Ghozali",
   logo_name: "Ahmad Ghozali",
   nickname: "Ali",
-  subTitle:
-    "A passionate individual who always thrives to work on Data",
-  resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+  subTitle: "A passionate individual who always thrives to work on Data",
+  resumeLink: "",
   portfolio_repository: "https://github.com/ghozali25",
   githubProfile: "https://github.com/ghozali25",
 };
@@ -87,7 +85,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Data Analyst & Data Science",
       fileName: "DataScienceImg",
       skills: [
         "Developing highly scalable production ready models for various deeplearning and statistical use cases",
@@ -96,23 +94,8 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "fa-file-excel",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Excel",
+          fontAwesomeClassname: "vscode-icons:file-type-excel",
           style: {
             backgroundColor: "transparent",
           },
@@ -126,8 +109,28 @@ const skills = {
           },
         },
         {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
+          skillName: "Looker",
+          fontAwesomeClassname: "logos:looker-icon",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "PowerBI",
+          fontAwesomeClassname: "logos:microsoft-power-bi",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "logos:tableau-icon",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
         },
       ],
     },
