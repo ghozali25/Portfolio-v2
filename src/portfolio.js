@@ -439,7 +439,7 @@ const experience = {
           company: "PT Trans Retail Indonesia",
           company_url:
             "https://www.linkedin.com/company/pt-trans-retail-indonesia?originalSubdomain=id",
-          logo_path: "tiktok_logo.png",
+          logo_path: "trans.png",
           duration: "Oct 2024 - Present",
           location: "Jakarta, Indonesia",
           description:
