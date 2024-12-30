@@ -132,6 +132,14 @@ const skills = {
             color: "#3776AB",
           },
         },
+        {
+          skillName: "My SQL",
+          fontAwesomeClassname: "logos:mysql",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
       ],
     },
     {
