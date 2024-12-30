@@ -6,7 +6,7 @@ dotenv.config();
 
 const openSource = {
   githubConvertedToken: process.env.GITHUB_TOKEN,
-  githubUserName: process.env.ghozali25,
+  githubUserName: process.env.GITHUB_USERNAME,
 };
 
 const query_pr = {
