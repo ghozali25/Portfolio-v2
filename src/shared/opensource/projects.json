@@ -10,7 +10,7 @@
       "languages": [
         {
           "name": "Laravel",
-          "iconifyClass": "loogo-laravel"
+          "iconifyClass": "logos:laravel"
         }
       ]
     },
