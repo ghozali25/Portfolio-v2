@@ -23,7 +23,8 @@ const greeting = {
   logo_name: "Ahmad Ghozali",
   nickname: "Ali",
   subTitle: "A passionate individual who always thrives to work on Data",
-  resumeLink: "",
+  resumeLink:
+    "https://drive.google.com/file/d/1-gaKVleBLHGa0x95FXlKRnqWM3ONmgXS/view",
   portfolio_repository: "https://github.com/ghozali25",
   githubProfile: "https://github.com/ghozali25",
 };
@@ -415,7 +416,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Perum Ciapus Grand Village",
+    subtitle: "Perum Ciapus Grand Village, Bogor, Jawa Barat, Indonesia",
     locality: "Bogor",
     country: "Indonesia",
     region: "Jawa Barat",
