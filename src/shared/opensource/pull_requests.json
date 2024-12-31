@@ -5,8 +5,12 @@
       "id": "PR_kwDOKOO3ns5ZWG3L",
       "title": "Signed-off-by: ghozali25 <ghozali.ahmd25@gmail.com>",
       "url": "https://github.com/ghozali25/undangan/pull/1",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/108579846?u=3768545f6ee56edc5483cd9929f947377640b7d2&v=4",
+        "url": "https://github.com/ghozali25",
+        "login": "ghozali25"
+      },
       "createdAt": "2023-09-01T14:31:24Z",
       "number": 1,
       "changedFiles": 1,
@@ -23,7 +27,7 @@
       }
     }
   ],
-  "merged": 0,
-  "open": 1,
+  "merged": 1,
+  "open": 0,
   "totalCount": 1
 }
