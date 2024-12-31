@@ -82,6 +82,12 @@ node git_data_fetcher.mjs
 This will fetch all the data from your github and it will automatically replace my data with yours.
 Whenever you want to update the github related information on the website you need to run this command.
 
+or you can manual for id project and set to shared/opensource/project.json
+
+```Terminal
+gh repo view owner/your repository
+```
+
 ### Splash Logo
 
 Note here that if you click [my portfolio](https://ghozali25.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
