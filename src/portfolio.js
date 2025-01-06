@@ -322,20 +322,19 @@ const experience = {
           logo_path: "trans.png",
           duration: "Oct 2024 - Present",
           location: "Jakarta, Indonesia",
-          description: "",
-          color: "#000000",
-        },
-        /*{
-          title: "",
-          company: "",
-          company_url: "",
-          logo_path: "",
-          duration: "",
-          location: "",
-          description:
-            "",
+          description: "Example Job Desk",
           color: "#fc1f20",
-        },*/
+        },
+        {
+          title: "Data Analyst & Budgeting",
+          company: "PT Linknet Tbk",
+          company_url: "example.com",
+          logo_path: "trans.png",
+          duration: "Jun 2024 - Oct 2024",
+          location: "Tangerang, Indonesia",
+          description: "Example Job Desk",
+          color: "#fc1f20",
+        },
       ],
     },
     {
