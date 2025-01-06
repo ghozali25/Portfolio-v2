@@ -335,6 +335,16 @@ const experience = {
           description: "Example Job Desk",
           color: "#fc1f20",
         },
+        {
+          title: "Data Analyst",
+          company: "PT Rantai Pasok Teknologi",
+          company_url: "example.com",
+          logo_path: "trans.png",
+          duration: "Jan 2022 - Jun 2024",
+          location: "Bogor, Indonesia",
+          description: "Example Job Desk",
+          color: "#fc1f20",
+        },
       ],
     },
     {
