@@ -402,22 +402,21 @@ const experience = {
         },
       ],
     },
-    /*{
-      title: "Volunteerships",
+    {
+      title: "Freelance",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+          title: "Acconting",
+          company: "CV Hasil Lautan Barat",
+          company_url: "https://hasillautanbarat.me/",
+          logo_path: "hlb.png",
+          duration: "",
+          location: "Bogor, Indonesia",
+          description: "Example Job Desk",
           color: "#4285F4",
         },
       ],
-    },*/
+    },
   ],
 };
 
