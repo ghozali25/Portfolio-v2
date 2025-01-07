@@ -304,10 +304,10 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
-  subtitle: "Work and Internship",
-  description:
-    "I have worked with many evolving startups as Data. I have also worked with some well established companies mostly as Data Analyst.",
+  title: "",
+  subtitle: "Professional Experience and Project",
+  /*description:
+    "I have worked with many evolving startups as Data. I have also worked with some well established companies mostly as Data Analyst.",*/
   header_image_path: "experience.svg",
   sections: [
     {
