@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Ahmad Ghozali",
-  logo_name: "Ahmad Ghozali",
+  logo_name: "Welcome",
   nickname: "Ali",
   subTitle: "A passionate individual who always thrives to work on Data",
   resumeLink:
