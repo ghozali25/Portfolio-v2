@@ -9,8 +9,8 @@ export default class DataScienceImg extends Component {
         data-name="Layer 1"
         xmlns="http://www.w3.org/2000/svg"
         width="1120"
-        height="829.80067"
-        viewBox="0 0 1120 829.80067"
+        height="600"
+        viewBox="0 0 1120 800"
       >
         <title>all the data</title>
         <ellipse
